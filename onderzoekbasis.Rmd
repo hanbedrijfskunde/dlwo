@@ -1,0 +1,44 @@
+---
+title: "Studentproces verbeteren"
+author: "Witek ten Hove en Freek van Kessel"
+date: "6/5/2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Wat is het probleem
+Met de systemen die momenteel gebruikt worden is het onvoldoende mogelijk om een diepgaand inzicht te krijgen in de leerprocessen van studenten.
+
+Onze definitie van leerproces is: uitgaande van de beginpositie (professioneel en als individu) van een student, alle toevoegingen die leiden tot geformuleerde competenties.
+
+Veronderstelling: oorzaak/gevolg relatie tussen inzicht leerprocessen en verbetering slagingspercentages (bewijzen)
+
+
+## Wat is een concrete uiting hiervan?
+Slecht scorende vakken / modules en alleen vermoedens van oorzaken, maar geen concrete data en gevalideerde oplossingen.
+
+## Wat wil je bereiken (over jaar?)
+Meer opleidingen die op een bepaald niveau (module / vak) systematisch inzicht vergaren over het leerproces en daarmee de kwaliteitscyclus rondom dit specifieke proces voeden. En stuurinformatie voor studenten om hun eigen leerproces te verbeteren.
+
+
+## Wanneer ben je tevreden (horizon jaar)?
+Als we naast de opleiding Bedrijfskunde samenwerken met een andere opleiding en daarmee een volledige onderzoekscyclus hebben doorlopen.
+
+
+## Wie zijn de betrokkenen?
++ Huib Langenberg (Trekker)
++ Tanja van Grinsven (Trekke)
++ Witek ten Hove (Teamlid)
++ Freek van Kessel (Teamlid)
++ Danny Brouwer (Klant)
+
+## Wat heb je nodig om hiermee verder te gaan (incl. randvoorwaarden)?
++ Plan en structuur >> acties formuleren
++ Nog een klantopleiding
++ Kennispartners
++ Systemen
+
+
